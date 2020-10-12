@@ -1,3 +1,5 @@
+![screenshot](screenshots/Fullscreen_12_10_2020__16_49.jpg)
+
 # todo_list
 
 ## Project setup
